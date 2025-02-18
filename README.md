@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to program robots to complete actions
 - 😎 Ask me about using R for single cell analysis of Multiple Sclerosis
 - 📫 How to reach me: cnwokoye@mail.wlu.edu
-- ⚡ Fun fact: I've worked at the Washington National Cathedral
+- ⚡ Fun fact: I've worked at the Washington National Cathedral in DC
 
 <!---
 C-nwokoye/C-nwokoye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
